@@ -1,68 +1,50 @@
 {
-  "name": "house-dodge",
+  "name": "brainrot-empire",
   "tree": {
     "$className": "DataModel",
     "Players": {
-      "$properties": {
-        "CharacterAutoLoads": false
-      }
+      "$properties": { "CharacterAutoLoads": false }
+    },
+    "ReplicatedStorage": {
+      "Remotes": { "$className": "Folder" }
     },
     "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
-      }
+      "Server": { "$path": "src/server" }
     },
     "StarterPlayer": {
       "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
-        }
+        "Client": { "$path": "src/client" }
       }
     },
     "Workspace": {
-      "$properties": {
-        "FilteringEnabled": true
-      },
+      "$properties": { "FilteringEnabled": true },
       "Baseplate": {
         "$className": "Part",
         "$properties": {
           "Anchored": true,
-          "Color": [
-            0.38823,
-            0.37254,
-            0.38823
-          ],
+          "Color": [0.301960796, 0.321568638, 0.278431386],
           "Locked": true,
-          "Position": [
-            0,
-            -10,
-            0
-          ],
-          "Size": [
-            512,
-            20,
-            512
-          ]
+          "Position": [0, -10, 0],
+          "Size": [512, 20, 512],
+          "Material": "Grass"
         }
       }
     },
     "Lighting": {
       "$properties": {
-        "Ambient": [
-          0,
-          0,
-          0
-        ],
+        "Ambient": [0.1, 0.1, 0.14],
         "Brightness": 2,
         "GlobalShadows": true,
         "Outlines": false,
-        "Technology": "Voxel"
+        "Technology": "Voxel",
+        "ClockTime": 14.5,
+        "FogEnd": 900,
+        "FogStart": 200,
+        "FogColor": [0.55, 0.6, 0.75]
       }
     },
     "SoundService": {
-      "$properties": {
-        "RespectFilteringEnabled": true
-      }
+      "$properties": { "RespectFilteringEnabled": true }
     }
   }
 }
