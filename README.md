@@ -1,5 +1,9 @@
 # BRAINROT EMPIRE
 
+[![make.fun · roblox-brainrot-01](https://make.fun/badge/roblox-brainrot-01.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=github&utm_campaign=roblox-brainrot-01)
+[![rank](https://make.fun/badge/roblox-brainrot-01/taniaandri808-code/roblox-brainrot-01/rank.svg)](https://make.fun/bounty/roblox-brainrot-01/leaderboard?utm_source=github&utm_medium=github&utm_campaign=roblox-brainrot-01)
+[![reward](https://make.fun/badge/roblox-brainrot-01/taniaandri808-code/roblox-brainrot-01/reward.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=github&utm_campaign=roblox-brainrot-01)
+
 A 3D Roblox brainrot game built for the make.fun `roblox-brainrot-01` bounty: collect absurd
 pasta-born brainrot figures from the display field, seat them on your base, watch the money
 tick up, defend them from the Brainrot Storm and the Thief, and rebirth at the altar for a
